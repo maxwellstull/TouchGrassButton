@@ -3,7 +3,7 @@
 ## Overview
 This project is the final result of my mission to help *other people* with ragequitting problems in videogames (totally not made for myself). It plugs into the computer via USB, and when all 3 switches are switched and the button is pressed, it closes whatever program is active. The button is completely from scratch, and uses opposing magnets to return to its un-pushed state. The project is covered in faux turf, to allow on to *touch grass* before the ultimately decide to rage quit.
 ## Project Recap Video
-[Project Video Recap](https://www.youtube.com/watch?v=1RJNKyy3B7o)
+[Project Recap Video](https://www.youtube.com/watch?v=1RJNKyy3B7o)
 ## CAD Files
 [CAD Files on Thingiverse](https://www.thingiverse.com/thing:6617027)
 
